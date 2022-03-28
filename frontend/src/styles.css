@@ -1,0 +1,7 @@
+@import "../node_modules/@nebular/theme/styles/prebuilt/default.css";
+
+
+.nb-theme-default nb-chat.size-small {
+  /*height: 100% !important;*/
+  min-height: 75vh !important;
+}

@@ -1,0 +1,6 @@
+POST https://96d0-41-141-231-170.ngrok.io/api/v1/users
+Content-Type: application/json
+
+{
+"name": "monaim"
+}
